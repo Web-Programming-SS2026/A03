@@ -1,5 +1,5 @@
-/* Replace the TODO in the next line with your userid */
-import checkAnswer from "https://rschraml.net/debugme.js?userid=TODO";
+/* Replace the TODO in the next line with your userid (sXXXXXXX) */
+import checkAnswer from "http://webprog.leicht.ruhr/debugme.js?userid=TODO";
 
 import DATA from "./data.js";
 
